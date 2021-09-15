@@ -1,2 +1,2 @@
 # jQuery
-Great repository names are short and memorable. Need inspiration? How about supreme-couscous? 
+https://arpasaha-as.github.io/jQuery/
